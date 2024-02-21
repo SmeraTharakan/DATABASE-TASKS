@@ -11,6 +11,7 @@ A database has been constructed based on an Entity-Relationship (ER) diagram of 
 * pgAdmin4
 * SQL Shell(psql)
 * smartdraw
+* mockaroo
 
 ### Overview
 
